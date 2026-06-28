@@ -11,7 +11,6 @@
 }
 
 .team-name {
-  margin: 0 0 8px;
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
@@ -21,7 +20,6 @@
 }
 
 .team-position {
-  margin: 0;
   color: var(--text);
   text-align: center;
 }
