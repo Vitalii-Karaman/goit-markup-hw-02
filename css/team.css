@@ -2,6 +2,14 @@
   background-color: var(--light);
 }
 
+.team-card {
+  background-color: var(--white);
+}
+
+.team-card-content {
+  text-align: center;
+}
+
 .team-name {
   margin: 0 0 8px;
   font-size: 20px;
@@ -9,9 +17,11 @@
   font-weight: 500;
   letter-spacing: 0.02em;
   color: var(--dark);
+  text-align: center;
 }
 
 .team-position {
   margin: 0;
   color: var(--text);
+  text-align: center;
 }

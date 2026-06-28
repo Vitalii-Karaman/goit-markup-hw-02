@@ -48,8 +48,7 @@ button {
 }
 
 .container {
-  width: min(1158px, calc(100% - 30px));
-  margin: 0 auto;
+  color: var(--text);
 }
 
 .section-title {

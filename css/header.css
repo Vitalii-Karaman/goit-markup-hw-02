@@ -1,19 +1,12 @@
 .page-header {
-  border-bottom: 1px solid var(--accent);
   background-color: var(--white);
-}
-
-.header-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  min-height: 72px;
+  color: var(--dark);
 }
 
 .logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -22,11 +15,6 @@
 
 .logo-accent {
   color: var(--primary-brand);
-}
-
-.site-nav-list {
-  display: flex;
-  gap: 40px;
 }
 
 .nav-link {
@@ -43,11 +31,6 @@
 
 .header-address {
   font-style: normal;
-}
-
-.contact-list {
-  display: flex;
-  gap: 40px;
 }
 
 .contact-link {
